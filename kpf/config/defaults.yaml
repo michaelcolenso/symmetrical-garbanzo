@@ -1,0 +1,14 @@
+workspace_root: workspaces
+timezone: UTC
+thresholds:
+  evidence:
+    min_sources: 15
+    min_pain_quotes: 5
+    min_spend_signals: 3
+    min_competitors: 3
+    min_authority_sources: 2
+  opportunity:
+    total_score_min: 38
+    pain_min: 7
+    spend_min: 5
+    solo_feasibility_min: 7
